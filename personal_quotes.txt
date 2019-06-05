@@ -2,4 +2,8 @@ Lost in the Tall Grass
 
 I like Blue
 
-I cnanged the color to green
+
+I changed the color to green
+
+I like Red! in branch personal_color
+
