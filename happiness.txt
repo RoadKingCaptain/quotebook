@@ -2,4 +2,4 @@ This file is happy to exist!
 
 But now we confict with another branch
 
-
+And now this line has changed.
