@@ -11,3 +11,7 @@ And again.
 and a third line. manual push?
 
 Adding a line at the remote repo!
+
+And now another line.
+
+Nice new line
