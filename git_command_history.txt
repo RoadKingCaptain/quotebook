@@ -1,0 +1,500 @@
+   10  ls -l
+   11  git push origin master
+   12  pwd
+   13  cd ../../Rainbow-Dance/
+   14  git status
+   15  pwd
+   16  git init
+   17  ls
+   18  ls -al
+   19  vi .git
+   20  cd .git
+   21  ls -l
+   22  cd ..
+   23  git ststus
+   24  git status
+   25  clear
+   26  git status
+   27  git add Dance1.txt
+   28  git status
+   29  git commit -m "Adding a new Dance"
+   30  git status
+   31  git status
+   32  git rm --cached Dance1.txt
+   33  git status
+   34  git add Dance1.txt
+   35  git commit Dance1.txt 
+   36  git commit Dance1.txt -m "Committing changes to the Dance1 file"
+   37  git status
+   38  clear
+   39  git add Dance2.txt
+   40  git commit Dance1.txt -m "Adding the Dance 1 file"
+   41  git add Dance2.txt Dance3.txt Dance4.txt
+   42  git status
+   43  git commit -a
+   44  git commit -a -m " Committing all files"
+   45  git status
+   46  git remote
+   47  git remote -v
+   48  git remove add origin https://github.com/RoadKingCaptain/Rainbow-Dance.git
+   49  git remote add origin https://github.com/RoadKingCaptain/Rainbow-Dance.git
+   50  git remote
+   51  git remote -v
+   52  git push remote master
+   53  git push orign master
+   54  git remote -v
+   55  git remote add origin https://github.com/RoadKingCaptain/Rainbow-Dance.git
+   56  git push -u origin master
+   57  git status
+   58  git status origin master
+   59  gut pull ??
+   60  gut pull --help
+   61  gut pull origin master
+   62  git pull origin master
+   63  git status
+   64  ls
+   65  cat Dance1.txt 
+   66  cat Dance2.txt 
+   67  git pull orgin master
+   68  git remote -v
+   69  git pull origin master 
+   70  pwd
+   71  cd 
+   72  pwd
+   73  ls -l
+   74  cd OneDrive/
+   75  ls -l
+   76  cd GIT/
+   77  pwd
+   78  ls -al
+   79  cd Harely-Models/
+   80  ls -al
+   81  cd ..
+   82  pwd
+   83  ls -al
+   84  cd Harely-Models/
+   85  ls -al
+   86  cd  ../Rainbow-Dance/
+   87  ls -al
+   88  cd ..
+   89  pwd
+   90  ssh-keygen -t rsa -b 4096 -C "johnrosenberg4@outlook.com"
+   91  pwd
+   92  ls -al
+   93  cd //c/Users/sphinx/
+   94  :q
+   95  :q
+   96  cd
+   97  pwd
+   98  cdcd
+   99  ls
+  100  cd
+  101  pwd
+  102  ls
+  103  ls -al
+  104  ls -al | more
+  105  pwd
+  106  cd .ssh/
+  107  pwd
+  108  ls -qk
+  109  ls -al
+  110  cd known_hosts 
+  111  cat known_hosts 
+  112  pwd
+  113  cd ..
+  114  ls -l .ssh/
+  115  pwd
+  116  rmdir .ssh
+  117  cd .ssh/
+  118  ls
+  119  rm known_hosts 
+  120  cd ..
+  121  rmdir .ssh
+  122  pwd
+  123  pwd
+  124  cd ~
+  125  pwd
+  126  ssh-keygen -t rsa -b 4096 -C "johnrosenberg4@outlook.com"
+  127  pwd
+  128  ls -l
+  129  ls -al
+  130  cd .ssh
+  131  ls
+  132  ls -al
+  133  pwd
+  134  pwd
+  135  cd id_rsa
+  136  cat id_rsa
+  137  cat id_rsa.pub 
+  138  ssh-add ~/.ssh/id_rsa
+  139  eval $(ssh-agent -s)
+  140  ssh-add ~/.ssh/id_rsa
+  141  pwd
+  142  pwd
+  143  ls -al
+  144  pwd
+  145  pwd
+  146  pwd
+  147  ls -l
+  148  cd ..
+  149  ls
+  150  pwd
+  151  cd OneDrive/
+  152  ls 
+  153  dir
+  154  ls
+  155  cd GIT
+  156  pwd
+  157  ls
+  158  ls -k
+  159  ls -l
+  160  cd ..
+  161  ls -al
+  162  cd GIT/
+  163  ls -al
+  164  cd Git-Test/
+  165  git init
+  166  git status 
+  167  ls
+  168  git config 
+  169  git config  --list
+  170  cd
+  171  pwd
+  172  ls -al
+  173  cd .ssh
+  174  ls -al
+  175  cat id_rsa.pub 
+  176  git
+  177  ls -l
+  178  cd OneDrive/
+  179  pwd
+  180  ls
+  181  ls -l
+  182  ls -al
+  183  cd GIT/
+  184  ls -al
+  185  cd Git-Test/
+  186  ls
+  187  pwd
+  188  ls -al
+  189  cd ..
+  190  pwd
+  191  ls -l
+  192  ls -lc
+  193  ls --help
+  194  ls -d
+  195  ls -c
+  196  pwd
+  197  mkdir quotebook
+  198  cd quotebook/
+  199  > inspirational_quites.txt
+  200  ls -l
+  201  ls -al
+  202  cd .git/
+  203  ls -l
+  204  ls
+  205  git status
+  206  pwd
+  207  cd ..
+  208  git status
+  209  git add inspirational_quites.txt 
+  210  git status
+  211  git commit --help
+  212  git commit -m "initial commit"
+  213  git status
+  214  git log
+  215  git --hepl
+  216  git --help
+  217  clear
+  218  git --help
+  219  git statud
+  220  git statuds
+  221  git status
+  222  clear
+  223  git status
+  224  git add inspirational_quites.txt 
+  225  git ststus
+  226  git status
+  227  git status
+  228  git log
+  229  git revert --help
+  230  git revert -n 9ce24f8
+  231  git status
+  232  git HEAD inspirational_quites.txt
+  233  git status
+  234  git 
+  235  git status
+  236  git revert --abort
+  237  git status
+  238  cat inspirational_quites.txt 
+  239  git status
+  240  git log
+  241  git revert -n 18de790db
+  242  git commit -m " Commit 4"
+  243  git statud
+  244  git status
+  245  got log
+  246  git log
+  247  git status
+  248  git commit -m "Commit 5"
+  249  git add inspirational_quites.txt 
+  250  git log
+  251  git revert -n  e389158
+  252  git commit -m "6"
+  253  clear
+  254  git log
+  255  git reset -n  0aaab647 --hard
+  256  git reset -n 0aaab647 --hard
+  257  git reset 0aaab647 --hard
+  258  git commit -m "8th"
+  259  git log
+  260  git revert --help
+  261  git reset HEAD~3
+  262  git status
+  263  git commit -m "eth
+  264  "
+  265  git add
+  266  git add inspirational_quites.txt 
+  267  git commit -m "9th"
+  268  cat inspirational_quites.txt 
+  269  git log
+  270  git revert 9ce24f80447
+  271  git revert 9a657e2e350
+  272  git status
+  273  git status
+  274  git commit -m "cleaned up conflict"
+  275  git log
+  276  clear
+  277  git log
+  278  git revert 9ce24f804474
+  279  git revert  e93ba11858
+  280  ls
+  281  ls -l
+  282  git commit -m "help!"
+  283  git add
+  284  git add inspirational_quites.txt 
+  285  git status
+  286  git commit -m "yikes"
+  287  git log
+  288  git status
+  289  git log
+  290  git log
+  291  git remote --v
+  292  git remote --verbose
+  293  git log
+  294  pwd
+  295  ls -l
+  296  ls
+  297  >happiness.txt
+  298  ls
+  299  ls -l
+  300  git status
+  301  git status
+  302  git status
+  303  git status
+  304  git log
+  305  git ls-tree
+  306  git ls-tree -d
+  307  git ls-tree -l
+  308  git ls-tree -l .
+  309  git ls-tree -l master
+  310  git ls-tree -l HEAD
+  311  git ls-tree -l ORIG_HEAD 
+  312  git log
+  313  git revert 34f03fa80
+  314  git revert 34f03fa80
+  315  git log
+  316  clear
+  317  clear
+  318  git log
+  319  git commit -m "commit"
+  320  git revert
+  321  git commit -m "Reverted"
+  322  git log
+  323  git status
+  324  ls -l
+  325  >happiness.txt
+  326  rm happiness.txt 
+  327  ls
+  328  rm happiness.txt 
+  329  ls
+  330  >happiness.txt
+  331  git status
+  332  git status
+  333  git remote --verbose
+  334  git status -z
+  335  git status -z -u
+  336  git ls-files inspirational_quites.txt inspirational_quites.txt inspirational_quites.txt 
+  337  git ls-files --?
+  338  git ls-files --stage
+  339  git ls-files --stage -- ./
+  340  git status
+  341  git symbolic-ref --short HEAD
+  342  git rev-parse master
+  343  git remote --verbose
+  344  git remote
+  345  git config
+  346  git remote global
+  347  git config --remote
+  348  git config --
+  349  git config
+  350  git config --global
+  351  git config --list
+  352  git commit --help
+  353  git status
+  354  git commit -f Third\ file.txt 
+  355  git commit --interactive
+  356  git commit -m "Commits"
+  357  git add Third\ file.txt 
+  358  git status
+  359  git commit -m "Commits"
+  360  git status
+  361  git branch personal_quotes
+  362  git status
+  363  git branch
+  364  git status
+  365  git branch
+  366  git branch personal_quotes 
+  367  git checkout personal_quotes 
+  368  git status
+  369  touch personal_quotes
+  370  ls -al
+  371  rm personal_quotes 
+  372  touch personal_quotes.txt
+  373  git status
+  374  git add .
+  375  git status
+  376  git status
+  377  git show :personal_quotes.txt
+  378  git log
+  379  clear
+  380  git log
+  381  git brach 
+  382  git branch
+  383  git branch master
+  384  git checkout master 
+  385  ls -l
+  386  git checkout personal_quotes 
+  387  ls -l
+  388  git checkout master 
+  389  ls -l
+  390  git checkout personal_quotes 
+  391  ls -l
+  392  git checkout master 
+  393  git checkout personal_quotes 
+  394  git status
+  395  git branch 
+  396  git status -z -u
+  397  git branch 
+  398  git status
+  399  git brach
+  400  git branch
+  401  git checkout master 
+  402  git branch motivation
+  403  git brach
+  404  git branch
+  405  git checkout motivation 
+  406  ls
+  407  touch motivation.tct
+  408  rm motivation.tct 
+  409  touch motivation.txt
+  410  git status
+  411  git add motivation.txt 
+  412  git status
+  413  git commit -m "motivation added"
+  414  git checkout master 
+  415  ls -al
+  416  git checkout motivation 
+  417  ls -al
+  418  git merge 
+  419  git merge --help
+  420  git status
+  421  git checkout master 
+  422  git status
+  423  git merge personal_quotes 
+  424  git status
+  425  ls -al
+  426  git checkout personal_quotes 
+  427  git add
+  428  git add .
+  429  git commit -m "Updated Personal QUotes"
+  430  git status
+  431  git status
+  432  git checkout master 
+  433  git add .
+  434  git commit -m "Added ive long"
+  435  stus status
+  436  git status
+  437  git merge personal_quotes 
+  438  git checkout -b personal_color
+  439  git status
+  440  git log
+  441  git merge personal_color 
+  442  git status
+  443  git status
+  444  git status
+  445  git status
+  446  git status 
+  447  /git mer
+  448  git merge personal_color 
+  449  git merge personal_quotes 
+  450  git merge personal_color 
+  451  git merge personal_quotes 
+  452  git branch
+  453  git branch --help
+  454  git branch -list
+  455  git branch --list
+  456  git branch 
+  457  git branch -d personal_color 
+  458  git log
+  459  git log | less
+  460  git diff
+  461  ls 
+  462  git diff
+  463  git diff
+  464  git diff
+  465  git diff
+  466  pwd
+  467  cd ..
+  468  ls -al
+  469  git status
+  470  pwd
+  471  cd quotebook/
+  472  pwd
+  473  git remote add origin https://github.com/RoadKingCaptain/quotebook.git
+  474  git remote
+  475  git push origin master
+  476  git push --all orign
+  477  git push --all origin
+  478  git push -u origin master
+  479  git status
+  480  git add
+  481  git add .
+  482  git commit -m "Update manually"
+  483  git status
+  484  git push origin master
+  485  git config
+  486  git config --list
+  487  git push origin master
+  488  git pull orign master
+  489  git pull origin master
+  490  git pull origin master
+  491  pwd
+  492  git clone https://github.com/RoadKingCaptain/quotebook.git
+  493  ls -al
+  494  pwd
+  495  cd
+  496  cd OneDrive/
+  497  cd GIT/
+  498  pwd
+  499  ls
+  500  git clone https://github.com/RoadKingCaptain/quotebook.git
+  501  cd OneDrive/
+  502  cd GIT
+  503  ls 
+  504  cd quotebook/
+  505  git push remote master
+  506  git push origin master
+  507  git push origin master
+  508  history
+  509  history > git_command_history
